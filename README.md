@@ -1,1 +1,1 @@
-## 设备限制1台，别直接用我的，你可以fork，然后在actions里面打开workflow，就能有自己的订阅
+## 设备已限制为1台，请自行Fork后，在Actions里面打开WorkflowS，生成自己的订阅，谢谢！
