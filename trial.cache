@@ -3,14 +3,13 @@ auth_path  user
 auto_invite  F
 buy  pass
 email  xmtlwhh812@spam4.me
-last_checkin  2025-04-17 18:42:50.095960+08:00
+last_checkin  2025-04-18 16:43:00.374498+08:00
 name  AyucLouD-Services
 node_n  99
-sub_info  0B  1.031G  2025-04-18 18:42:49+08:00  (剩余 1.031G 2:25:13.877126)
+sub_info  0B  1.776G  2025-04-18 18:42:49+08:00  (剩余 1.776G 1:59:45.682785)
 sub_url  https://network.ayucloud.nl/link/tXFJ7455KmioMMhi?clash=1
 time  2025-04-17 18:42:51.101336+08:00
 type  sspanel
-尝试签到失败  ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
 
 [qlgq.top]
 
