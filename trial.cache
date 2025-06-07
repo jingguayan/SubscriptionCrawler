@@ -11,8 +11,8 @@ sub_info  0B  1.097G  2025-06-07 12:21:18+08:00  (剩余 1.097G 0:00:31.339069)
 sub_url  https://ayucloud.services/link/TaLIlTP4jPSf2pHG?clash=1
 time  2025-06-06 12:21:20.162969+08:00
 type  sspanel
-尝试签到失败  ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
-更新订阅链接/续费续签失败  注册失败(pblcnmzb570@gmail.com): HTTPSConnectionPool(host='ayucloud.services', port=443): Max retries exceeded with url: /user/register (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f6d1b129450>, 'Connection to ayucloud.services timed out. (connect timeout=30)'))
+尝试签到失败  ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+更新旧订阅失败  HTTPSConnectionPool(host='ayucloud.services', port=443): Max retries exceeded with url: /link/TaLIlTP4jPSf2pHG?clash=1 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fe432cea170>, 'Connection to ayucloud.services timed out. (connect timeout=30)'))
 
 [qlgq.top]
 
