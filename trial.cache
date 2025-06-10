@@ -6,10 +6,11 @@ email  dvimlzihb921@linshiyou.com
 last_checkin  2025-06-10 06:43:08.761471+08:00
 name  AyucLouD-Services
 node_n  99
-sub_info  0B  1.093G  2025-06-11 06:43:08+08:00  (剩余 1.093G 13:27:03.043586)
+sub_info  0B  1.093G  2025-06-11 06:43:08+08:00  (剩余 1.093G 13:02:01.668169)
 sub_url  https://network.ayucloud.nl/link/kY1dmWywOHJDTDuy?clash=1
 time  2025-06-10 06:43:09.740982+08:00
 type  sspanel
+保存base64/clash订阅失败  _cache_base_clash_config: 获取基本 clash 配置失败: 'NoneType' object is not iterable
 
 [qlgq.top]
 
