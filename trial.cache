@@ -6,11 +6,11 @@ email  jivlsnyb603@lplso.tmmad.com
 last_checkin  2025-06-11 17:16:20.676072+08:00
 name  AyucLouD-Services
 node_n  99
-sub_info  0B  1.172G  2025-06-12 17:16:20+08:00  (剩余 1.172G 13:01:24.732508)
+sub_info  0B  1.172G  2025-06-12 17:16:20+08:00  (剩余 1.172G 12:35:31.002736)
 sub_url  https://network.ayucloud.nl/link/T4hQ1UkkLeFLZ4uy?clash=1
 time  2025-06-11 17:16:21.647475+08:00
 type  sspanel
-尝试签到失败  ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+尝试签到失败  ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
 
 [qlgq.top]
 
