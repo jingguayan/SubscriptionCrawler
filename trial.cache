@@ -10,7 +10,7 @@ sub_info  0B  1.753G  2025-06-17 07:13:48+08:00  (剩余 1.753G 0:00:25.409608)
 sub_url  https://ayucloud.services/link/QsXwa8ZUcE2y6bCD?clash=1
 time  2025-06-16 07:13:49.428252+08:00
 type  sspanel
-更新订阅链接/续费续签失败  注册失败(njygxxw367@gmail.com): ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+更新旧订阅失败  HTTPSConnectionPool(host='ayucloud.services', port=443): Max retries exceeded with url: /link/QsXwa8ZUcE2y6bCD?clash=1 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fea383ede40>, 'Connection to ayucloud.services timed out. (connect timeout=30)'))
 
 [qlgq.top]
 
