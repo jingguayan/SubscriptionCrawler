@@ -10,7 +10,8 @@ sub_info  0B  1.207G  2025-06-18 15:14:51+08:00  (剩余 1.207G 0:53:31.741057)
 sub_url  https://ayucloud.services/link/X8YX4ml9Eq8rsI6u?clash=1
 time  2025-06-17 15:14:53.288848+08:00
 type  sspanel
-尝试签到失败  ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+尝试签到失败  HTTPSConnectionPool(host='ayucloud.services', port=443): Read timed out. (read timeout=30)
+更新旧订阅失败  HTTPSConnectionPool(host='ayucloud.services', port=443): Read timed out. (read timeout=30)
 
 [qlgq.top]
 
