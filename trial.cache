@@ -7,11 +7,11 @@ email  irtpnodjn732@tomystudio.com
 last_checkin  2025-06-18 23:16:22.055342+08:00
 name  AyucLouD-Services
 node_n  99
-sub_info  0B  1.203G  2025-06-19 23:16:21+08:00  (剩余 1.203G 4:03:39.817725)
+sub_info  0B  1.203G  2025-06-19 23:16:21+08:00  (剩余 1.203G 3:37:32.565372)
 sub_url  https://ayucloud.services/link/ozHUjl5HvH1M2TMV?clash=1
 time  2025-06-18 23:16:22.906673+08:00
 type  sspanel
-尝试签到失败  ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+尝试签到失败  ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
 
 [qlgq.top]
 
