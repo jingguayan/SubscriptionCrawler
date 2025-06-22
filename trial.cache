@@ -3,15 +3,14 @@ auth_path  user
 auto_invite  F
 banned_domains  psnator.com
 buy  pass
-email  eqrdmwfrw730@bookmorpho.cfd
-last_checkin  2025-06-22 00:45:20.883428+08:00
+email  qtuoqesn43@sharklasers.com
+last_checkin  2025-06-22 14:47:44.744653+08:00
 name  AyucLouD-Services
 node_n  99
-sub_info  0B  1.772G  2025-06-22 13:15:21+08:00  (剩余 1.772G 0:00:57.124717)
-sub_url  https://ayucloud.services/link/he51IXteEQ7sYjNa?clash=1
-time  2025-06-21 13:15:22.453112+08:00
+sub_info  0B  1.121G  2025-06-23 14:47:44+08:00  (剩余 1.121G 23:59:52.462272)
+sub_url  https://network.ayucloud.nl/link/Bu15zb567C4oVbrW?clash=1
+time  2025-06-22 14:47:45.557720+08:00
 type  sspanel
-更新旧订阅失败  HTTPSConnectionPool(host='ayucloud.services', port=443): Max retries exceeded with url: /link/he51IXteEQ7sYjNa?clash=1 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f8934d01360>, 'Connection to ayucloud.services timed out. (connect timeout=30)'))
 
 [qlgq.top]
 
