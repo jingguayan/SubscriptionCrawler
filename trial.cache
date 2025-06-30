@@ -4,16 +4,15 @@ auto_invite  F
 banned_domains  psnator.com
 buy  pass
 email  rzjvdba566@rgzx.tmmad.com
-last_checkin  2025-06-29 06:15:32.082832+08:00
+last_checkin  2025-06-30 19:37:58.202953+08:00
 name  AyucLouD-Services
 node_n  99
-sub_info  0B  0B  2025-06-30 06:15:31+08:00  (剩余 0B -1 day, 11:00:01.627706)
+sub_info  0B  130M  2025-06-30 06:15:31+08:00  (剩余 130M -1 day, 10:36:40.644650)
 sub_url  https://network.ayucloud.nl/link/N986uNo6nyUbM9Da?clash=1
 time  2025-06-29 06:15:32.882487+08:00
 type  sspanel
 保存base64/clash订阅失败  'NoneType' object is not iterable
-尝试签到失败  ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
-更新订阅链接/续费续签失败  注册失败(owxiooetp816@gmail.com): HTTPSConnectionPool(host='ayucloud.services', port=443): Max retries exceeded with url: /user/register (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f200e2fe470>, 'Connection to ayucloud.services timed out. (connect timeout=30)'))
+更新订阅链接/续费续签失败  注册失败(ffluabbpq740@tmpmail.org): 邮箱后缀已被拉黑
 
 [qlgq.top]
 
