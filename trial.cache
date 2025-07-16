@@ -3,16 +3,14 @@ auth_path  user
 auto_invite  F
 banned_domains  psnator.com  femailtor.com  smartnator.com  lista.cc
 buy  pass
-email  zczxhigwe50@linshiyou.com
-last_checkin  2025-07-16 04:42:56.920829+08:00
+email  dzvkjioi168@oakon.com
+last_checkin  2025-07-16 11:15:02.399386+08:00
 name  AyucLouD-Services
 node_n  99
-sub_info  0B  208M  2025-07-16 01:17:51+08:00  (剩余 208M -1 day, 16:01:01.705168)
-sub_url  https://network.ayucloud.nl/link/FcHGI33H5xqXXZDe?clash=1
-time  2025-07-15 01:17:52.303586+08:00
+sub_info  0B  1.223G  2025-07-17 11:15:02+08:00  (剩余 1.223G 23:59:55.818059)
+sub_url  https://network.ayucloud.nl/link/LBb6V2vWVk1Roi63?clash=1
+time  2025-07-16 11:15:03.489677+08:00
 type  sspanel
-保存base64/clash订阅失败  'NoneType' object is not iterable
-更新订阅链接/续费续签失败  注册失败(xaevycr508@gmail.com): HTTPSConnectionPool(host='ayucloud.services', port=443): Max retries exceeded with url: /user/register (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f8ed341e6e0>, 'Connection to ayucloud.services timed out. (connect timeout=30)'))
 
 [qlgq.top]
 
