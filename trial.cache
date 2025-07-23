@@ -4,14 +4,13 @@ auto_invite  F
 banned_domains  psnator.com  femailtor.com  smartnator.com  lista.cc  mydefipet.live  xxxhi.cc
 buy  pass
 email  bqiqfsk362@965.tmmad.com
-last_checkin  2025-07-23 23:17:10.861761+08:00
+last_checkin  2025-07-24 01:44:44.102700+08:00
 name  AyucLouD-Services
 node_n  99
-sub_info  0B  1.166G  2025-07-24 23:17:10+08:00  (剩余 1.166G 21:58:05.262158)
+sub_info  0B  1.702G  2025-07-24 23:17:10+08:00  (剩余 1.702G 21:32:16.374060)
 sub_url  https://network.ayucloud.nl/link/qxLVjfG0l7efSCfP?clash=1
 time  2025-07-23 23:17:11.791775+08:00
 type  sspanel
-尝试签到失败  HTTPSConnectionPool(host='ayucloud.services', port=443): Max retries exceeded with url: /user/login (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f63e08e69b0>, 'Connection to ayucloud.services timed out. (connect timeout=30)'))
 
 [qlgq.top]
 
