@@ -1,7 +1,7 @@
 [ayucloud.services]
 auth_path  user
 auto_invite  F
-banned_domains  psnator.com  femailtor.com  smartnator.com  lista.cc  mydefipet.live  xxxhi.cc  tomystudio.com  x866.cc  mail.shouyou789.com  rgzx.tmmad.com  lplso.tmmad.com  ipiso.tmmad.com  adtgng.tmmad.com  wwobs.com  jkd.tmmad.com  snapmail.cc
+banned_domains  psnator.com  femailtor.com  smartnator.com  lista.cc  mydefipet.live  xxxhi.cc  tomystudio.com  x866.cc  mail.shouyou789.com  rgzx.tmmad.com  lplso.tmmad.com  ipiso.tmmad.com  adtgng.tmmad.com  wwobs.com  jkd.tmmad.com  snapmail.cc  965.tmmad.com
 buy  pass
 email  bbnihtg740@guerrillamail.biz
 last_checkin  2025-08-10 01:11:57.572530+08:00
@@ -11,14 +11,15 @@ sub_info  0B  290M  2025-08-10 00:45:53+08:00  (剩余 290M -1 day, 11:49:09.628
 sub_url  https://network.ayucloud.nl/link/auiAzqynxNf9eAWz?clash=1
 time  2025-08-09 00:45:54.333952+08:00
 type  sspanel
-保存base64/clash订阅失败  'NoneType' object is not iterable
-更新旧订阅失败  ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+保存base64/clash订阅失败  string indices must be integers
+保存订阅信息失败  no sub info
+更新订阅链接/续费续签失败  获取邮箱验证码超时(zedzbvemo138@965.tmmad.com)
 
 [qlgq.top]
 api_host  ww38.qlgq.top
 error  <string>:2 Unexpected "u" at column 14
 type  v2board
-更新订阅链接/续费续签失败  注册失败(fewibfqmq876@gmail.com): 解析 json 失败: Expecting value: line 1 column 1 (char 0) (403 Forbidden '<html>\r\n<head><title>403 Forbidden</title></head>\r\n<body>\r\n<center><h1>403 Forbidden</h1></center>\r\n<hr><center>nginx</center>\r\n</body>\r\n</html>\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n')
+更新订阅链接/续费续签失败  注册失败(ueyexide316@gmail.com): 解析 json 失败: Expecting value: line 1 column 1 (char 0) (403 Forbidden '<html>\r\n<head><title>403 Forbidden</title></head>\r\n<body>\r\n<center><h1>403 Forbidden</h1></center>\r\n<hr><center>nginx</center>\r\n</body>\r\n</html>\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n')
 
 [cyanmori.com]
 
