@@ -7,7 +7,7 @@ email  nlwhlzi629@guerrillamail.org
 last_checkin  2025-10-31 03:35:49.594553+08:00
 name  AyucLouD-Services
 node_n  105
-sub_info  109.1K  1.165G  2025-11-01 03:35:39+08:00  (剩余 1.165G 20:22:55.756217)
+sub_info  124.2K  1.165G  2025-11-01 03:35:39+08:00  (剩余 1.165G 20:00:03.672193)
 sub_url  https://network.ayucloud.nl/link/AA2vd12ITIXgCqYZ?clash=1
 time  2025-10-31 03:35:56.280448+08:00
 type  sspanel
@@ -16,11 +16,11 @@ type  sspanel
 api_host  ww38.qlgq.top
 error  <string>:2 Unexpected "u" at column 14
 type  v2board
-更新订阅链接/续费续签失败  注册失败(bvwikku756@gmail.com): HTTPSConnectionPool(host='ww38.qlgq.top', port=443): Max retries exceeded with url: /api/v1/passport/auth/register (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f4c773af910>: Failed to resolve 'ww38.qlgq.top' ([Errno -5] No address associated with hostname)"))
+更新订阅链接/续费续签失败  注册失败(ytxulmhta382@gmail.com): HTTPSConnectionPool(host='ww38.qlgq.top', port=443): Max retries exceeded with url: /api/v1/passport/auth/register (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f40a1fef0a0>: Failed to resolve 'ww38.qlgq.top' ([Errno -5] No address associated with hostname)"))
 
 [cyanmori.com]
 name  抱歉，站点已暂停
 type  sspanel
-更新订阅链接/续费续签失败  注册失败(lcqbkcdp990@gmail.com): 解析 json 失败: Expecting value: line 1 column 1 (char 0) (405 Method Not Allowed '<html>\r\n<head><title>405 Not Allowed</title></head>\r\n<body>\r\n<center><h1>405 Not Allowed</h1></center>\r\n<hr><center>nginx</center>\r\n</body>\r\n</html>\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n')
+更新订阅链接/续费续签失败  注册失败(ooevhikt799@gmail.com): 解析 json 失败: Expecting value: line 1 column 1 (char 0) (405 Method Not Allowed '<html>\r\n<head><title>405 Not Allowed</title></head>\r\n<body>\r\n<center><h1>405 Not Allowed</h1></center>\r\n<hr><center>nginx</center>\r\n</body>\r\n</html>\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n')
 
 [vipxgyun.com]
